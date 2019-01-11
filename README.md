@@ -1,7 +1,7 @@
 # Virtual Machine (VM)
 Installing a VM to work from during your training
 
-## Installation of an vitual box vm
+## Installation of a vitual box vm
 1. Download and install virtual box from https://www.virtualbox.org
 2. Download and install the ubuntu image
     1. Got to https://www.osboxes.org/ubuntu/ and download the Virtual Box version of "Ubuntu 18.10 Cosmic Cuttlefish" (you will be forwarded to a sourceforge site and the download will start automaticaly)
@@ -9,13 +9,18 @@ Installing a VM to work from during your training
     3. Open the virtual box application on you're system
     4. Click on "New" (this will setup a new virtual machine)
     5. Set the following parameters: Name="Ubuntu training", Type="Linux", Version="Ubuntu (64-bit)" (leave the Machine Folder on the default location) and click "Continue"
+    ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2015.34.37.png)
     6. Give it some good amount of memory (suggest to give it at leasted 8GB of memory if you're system allows it, and click "Continue"
+    ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2015.49.55.png)
     7. Select "Use an existing vitual hard disk file"
-    8. Click the yellow folder icon
+    ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2015.52.14.png)          
+    8. Click the yellow folder icon    
     9. Click "Add" on the top
     10. Browse to the location where you extracted the image in step 2.2 and select the image and click "Open"
+    ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2015.58.38.png)
     11. Select the "Ubuntu 18.10 Cosmic (64bit).vdi" and click Choose
     12. Click "Create" (the Ubuntu training machine should now apeare on the left side)
+    ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.00.19.png)
 3. Configure how the VM image will run
     1. Select the Ubuntu training machine (it should still be powered off)
     2. Click "Settings" -> "System" -> "Processor"
