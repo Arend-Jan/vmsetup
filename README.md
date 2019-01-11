@@ -50,6 +50,7 @@ Installing a VM to work from during your training
 $ sudo apt-get update
 ```
 4. The system will askes for the sudo password. This password is the userpassword of osboxes.org account (so the password is "osboxes.org"). Type it in and press enter (the system updates the package lists for upgrades for packages that need upgrading)
+![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.35.24.png)
 5. After the update is done, enter the following command in the terminal (the system will upgrade all it's packages. this might take a while)
 ```Bash
 $ sudo apt-get upgrade
@@ -61,6 +62,7 @@ $ sudo apt-get upgrade
 $ sudo apt-get install curl
 ```
 3. The system will install curl. It might ask for a password (enter the password) and/or to agree to install some stuff (just enter "Y" and hit enter)
+![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.47.41.png)
 ### Install mosquitto
 1. If your not still in it, go to the terminal
 2. Enter the following command 
