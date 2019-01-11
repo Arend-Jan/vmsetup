@@ -25,17 +25,22 @@ Installing a VM to work from during your training
     1. Select the Ubuntu training machine (it should still be powered off)
     2. Click "Settings" -> "System" -> "Processor"
     3. Set the amount of Processor(s) to "2" and click "OK"
+    ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.04.25.png)
 4. Start your VM for the first time
     1. Select the "Ubuntu Training" machine
     2. Click the "Start" icon at the top, to start running the VM (this might take some time)
     3. Login to the osboxes.org account with the password "osboxes.org" (without the quotes)
+    ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.10.49.png)
     4. You will be asked to setup an online account. We can ignore this by clicking "Skip" and a couple of times next
     5. It might be that there are software updates avaible. You can install them if you please (we recommend doing this)
     6. Click the icon with the 9 dots in the bottom left corner (We are going the change the display resolution, so we do have some more real estated to work with)
+    ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.14.10.png)
     7. Type in "displays"
     8. Click on the line the the display icon the the text "Displays"
-    9. Select the "Resolution" with makes most sence to your system (we choice 1280 x 768, it might be better to choice a bigger resolution if you display is up to it) and click the green button on the top right side
+    ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.17.42.png)
+    9. Select the "Resolution" with makes most sence to your system (we choice 1280 x 768, it might be better to choice a bigger resolution if you display is up to it) and click the green button on the top right corner
     10. The screen will change resolution, and if it fits your setup, you can keep the changes by clicking the apropriate butten
+    ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.22.08.png)
     11. Close the Displays window by clicking the red X on the top right corner
 ## Update, upgrade and install software on Ubuntu
 1. Click the icon with the 9 dots in the bottom left corner
