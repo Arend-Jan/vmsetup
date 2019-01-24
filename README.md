@@ -27,11 +27,11 @@ Installing a VM to work from during your training
     2. Click "Settings" -> "System" -> "Processor"
     3. Set the amount of Processor(s) to "2" and click "OK"
     ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.04.25.png)
-    ![alt text](images/set cpus.png)
+    ![alt text](images/set%20cpus.png)
 4. Start your VM for the first time
     1. Select the "Ubuntu Training" machine
     2. Click the "Start" icon at the top, to start running the VM (this might take some time)
-    3. Login to the osboxes.org account with the password "osboxes.org" (without the quotes)
+    3. Login to the osboxes.org account with the password "osboxes.org" (without the quotes, QWERTY keyboard)
     ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.10.49.png)
     4. You will be asked to setup an online account. We can ignore this by clicking "Skip" and a couple of times next
     5. It might be that there are software updates avaible. You can install them if you please (we recommend doing this)
