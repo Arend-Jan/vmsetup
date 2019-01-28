@@ -18,6 +18,7 @@ Installing a VM to work from during your training
     9. Click "Add" on the top
     10. Browse to the location where you extracted the image in step 2.2 and select the image and click "Open"
     ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2015.58.38.png)
+    ![alt text](images/add-virtual-harddisk2.png) 
     11. Select the "Ubuntu 18.10 Cosmic (64bit).vdi" and click Choose
     12. Click "Create" (the Ubuntu training machine should now apeare on the left side)
     ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.00.19.png)
@@ -26,10 +27,11 @@ Installing a VM to work from during your training
     2. Click "Settings" -> "System" -> "Processor"
     3. Set the amount of Processor(s) to "2" and click "OK"
     ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.04.25.png)
+    ![alt text](images/set%20cpus.png)
 4. Start your VM for the first time
     1. Select the "Ubuntu Training" machine
     2. Click the "Start" icon at the top, to start running the VM (this might take some time)
-    3. Login to the osboxes.org account with the password "osboxes.org" (without the quotes)
+    3. Login to the osboxes.org account with the password "osboxes.org" (without the quotes, QWERTY keyboard)
     ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.10.49.png)
     4. You will be asked to setup an online account. We can ignore this by clicking "Skip" and a couple of times next
     5. It might be that there are software updates avaible. You can install them if you please (we recommend doing this)
@@ -42,6 +44,7 @@ Installing a VM to work from during your training
     10. The screen will change resolution, and if it fits your setup, you can keep the changes by clicking the apropriate butten
     ![alt text](https://raw.githubusercontent.com/Arend-Jan/vmsetup/master/images/Screenshot%202019-01-11%20at%2016.22.08.png)
     11. Close the Displays window by clicking the red X on the top right corner
+    12. (Optional) [Changing the keyboard layout](https://www.wikihow.com/Change-Keyboard-Layout-in-Ubuntu)
 ## Update, upgrade and install software on Ubuntu
 1. Click the icon with the 9 dots in the bottom left corner
 2. Type "terminal" (an black icon with the text "Terminal" should appear)
